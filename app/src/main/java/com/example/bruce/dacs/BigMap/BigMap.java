@@ -690,7 +690,6 @@ public class BigMap extends FragmentActivity implements OnMapReadyCallback, Dire
 //                    .title(route.endAddress)
 //                    .position(LatLgData)));
 
-
             PolylineOptions polylineOptions = new PolylineOptions().
                     geodesic(true).
                     color(Color.GRAY).
